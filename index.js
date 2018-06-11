@@ -12,7 +12,7 @@ function logShout (string3) {
 }
 //fourth test
 function logWhisper (string4) {
- console.log(string3.toLowerCase());
+ console.log(string4.toLowerCase());
 }
 //fifth test
 function sayHiToGrandma (string5) {
