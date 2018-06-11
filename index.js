@@ -17,11 +17,11 @@ function logWhisper (string4) {
 //fifth test
 
 function sayHiToGrandma (string5) {
-  if (string5 === string5.toLowerCase() {
+  if (string5 === string5.toLowerCase()) {
     return "I can\'t hear you!";
-  } else if (string5.toUpperCase() === uppercase) {
+  } else if (string5 === string5.toUpperCase()) {
     return "YES INDEED!";
-  } else if (string5 === mixedCase){
+  } else (string5 === "I love you, Grandma."){
     return "I love you, too."
   }
 }
