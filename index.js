@@ -11,3 +11,7 @@ function logShout (string3) {
   console.log(string3.toUpperCase());
 }
 //fourth test
+function logWhisper (string4) {
+ console.log(string3.toLowerCase());
+}
+//fifth test
