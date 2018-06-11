@@ -16,5 +16,8 @@ function logWhisper (string4) {
 }
 //fifth test
 function sayHiToGrandma (string5) {
+  var upperCase = "HELLO";
+  var lowerCase = "hello";
+  var mixedCase = "Hi there!";
   
 }
